@@ -98,6 +98,9 @@ const Login = () => {
       <div className="w-full lg:w-1/2 flex items-center justify-center p-8">
         <Card className="w-full max-w-md p-8 shadow-lg">
           <div className="mb-8 text-center">
+            <h1 className="text-5xl font-bold bg-gradient-clubhive bg-clip-text text-transparent mb-4">
+              ClubHive
+            </h1>
             <h2 className="text-3xl font-bold mb-2">Welcome Back</h2>
             <p className="text-muted-foreground">Sign in to your club account</p>
           </div>
